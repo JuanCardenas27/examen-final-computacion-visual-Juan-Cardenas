@@ -171,7 +171,7 @@ objeto lo selecciona y lo resalta, mostrando su nombre en el HUD.
 
 ### Vista general de la escena
 
-![Captura general de la fábrica](media/captura_1.png)
+![Captura general de la fábrica](media/Screenshot_1.png)
 
 Vista orbital de la celda completa: el brazo robótico en el centro sobre su
 demarcación de seguridad, la banda transportadora trayendo una caja, el pallet
@@ -180,7 +180,7 @@ sombras proyectadas por los focos de techo y la iluminación cálida de trabajo.
 
 ### Detalle del brazo y la pinza
 
-![Captura del brazo robótico](media/captura_2.png)
+![Captura del brazo robótico](media/Screenshot_2.png)
 
 Vista cercana (preset "Detalle del brazo") que muestra la jerarquía articulada
 —base giratoria, hombro, codo, muñeca y pinza— y la caja sujeta por la pinza
@@ -188,7 +188,7 @@ durante la fase de transporte del ciclo pick-and-place.
 
 ### Demostración del ciclo e interacción (GIF)
 
-![Demo animada de la escena](media/demo.gif)
+![Demo animada de la escena](media/gif1.gif)
 
 El GIF muestra el ciclo automático completo (la banda acerca la caja, el brazo
 desciende, la agarra, gira hacia el pallet y la deposita), la navegación con la
