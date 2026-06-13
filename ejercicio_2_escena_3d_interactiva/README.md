@@ -246,10 +246,6 @@ ya haya orbitado; el `lerp` evita el salto brusco y libera el control al llegar.
 ## Prompts utilizados
 
 ```
-"Crea una escena 3D en React Three Fiber de una fábrica robótica: brazo
-articulado con jerarquía base-hombro-codo-muñeca-pinza, banda transportadora,
-AGV controlado por teclado, materiales PBR, iluminación con sombras y un ciclo
-automático pick-and-place, con sliders y botones para interactuar."
 
 "Quita la dependencia de red del Environment HDR de drei para que la escena sea
 reproducible offline; compensa con un esquema de luces propio."

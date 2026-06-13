@@ -295,11 +295,6 @@ en una imagen de 480 px que en una de 1448 px.
 ## Prompts utilizados
 
 ```
-"Crea un pipeline en Python/OpenCV que cargue una imagen y aplique grises,
-HSV/LAB, suavizado (Gaussiano/mediana), bordes (Canny/Sobel) y una etapa de
-segmentación + detección, guardando todas las salidas y un montaje comparativo,
-y documentando los parámetros."
-
 "La segmentación recorta la cabeza del personaje; corrige la máscara para
 incluir el rostro completo (piel clara) sin perder la chaqueta oscura."
 
